@@ -27,10 +27,10 @@ Try it live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
 Also exploring: REST APIs, databases, and serverless deployment.
 
-## GitHub Stats
+## GitHub
 
-![Codepions GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codepions&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codepions&layout=compact)
+![Followers](https://img.shields.io/github/followers/Codepions?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Codepions&query=$.public_repos&label=Public%20Repos&style=for-the-badge)
 
 ## Contact
 
