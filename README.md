@@ -18,6 +18,14 @@ new episodes and releases.
 
 Try it live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
+## APIs
+
+**[imdb-top250-api](https://github.com/mmdju/imdb-top250-api)** — free JSON API
+for IMDb Top 250 movies and TV shows: search, filter, sort, and pagination,
+running on Cloudflare Workers (plus FastAPI and Docker versions).
+
+Try it live: [imdb-top250.mmdju.workers.dev/top250](https://imdb-top250.mmdju.workers.dev/top250)
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
