@@ -13,7 +13,7 @@ Backend developer in progress — learning by building real things.
 
 **[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — a Telegram assistant for movies and series:
 bilingual interface, smart AI-powered search, worldwide ratings, organized
-download links, subtitle section, and automatic follow-up notifications for
+movie details, subtitle search, and automatic follow-up notifications for
 new episodes and releases.
 
 Try it live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
