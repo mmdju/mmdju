@@ -1,4 +1,4 @@
-# Hi there, I'm Javad (Codepions)
+# Hi there, I'm Javad (mmdju)
 
 Backend developer in progress — learning by building real things.
 
@@ -11,7 +11,7 @@ Backend developer in progress — learning by building real things.
 
 ## Featured Project
 
-**[OrcaMovies](https://github.com/Codepions/OrcaMovies)** — a Telegram assistant for movies and series:
+**[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — a Telegram assistant for movies and series:
 bilingual interface, smart AI-powered search, worldwide ratings, organized
 download links, subtitle section, and automatic follow-up notifications for
 new episodes and releases.
@@ -29,10 +29,10 @@ Also exploring: REST APIs, databases, and serverless deployment.
 
 ## GitHub
 
-![Followers](https://img.shields.io/github/followers/Codepions?style=for-the-badge)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Codepions&query=$.public_repos&label=Public%20Repos&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mmdju?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mmdju&query=$.public_repos&label=Public%20Repos&style=for-the-badge)
 
 ## Contact
 
-- Email: [codepionz@gmail.com](mailto:codepionz@gmail.com)
+- GitHub: [@mmdju](https://github.com/mmdju)
 - Telegram: [@mmdju](https://t.me/mmdju)
