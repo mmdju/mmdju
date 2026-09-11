@@ -33,7 +33,7 @@ Try it live: [imdb-top250.mmdju.workers.dev/top250](https://imdb-top250.mmdju.wo
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Also exploring: REST APIs, databases, and serverless deployment.
+Python · JavaScript · FastAPI · REST APIs · Cloudflare Workers · D1 · KV · Docker · Telegram Bot API
 
 ## GitHub
 
