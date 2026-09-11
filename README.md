@@ -26,6 +26,12 @@ running on Cloudflare Workers (plus FastAPI and Docker versions).
 
 Try it live: [imdb-top250.mmdju.workers.dev/top250](https://imdb-top250.mmdju.workers.dev/top250)
 
+**[letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)** — free JSON API
+for the official Letterboxd Top 500 films: search, filter, sort, and pagination,
+running on Cloudflare Workers (plus FastAPI and Docker versions).
+
+Try it live: [letterboxd-top500.mmdju.workers.dev/top500](https://letterboxd-top500.mmdju.workers.dev/top500)
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
