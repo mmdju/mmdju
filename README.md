@@ -9,37 +9,25 @@ Backend developer in progress — learning by building real things.
 - Building and maintaining a live Telegram bot used by real users
 - Open to learning, feedback, and collaboration
 
-## Featured Project
+## Projects
 
-**[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — a Telegram assistant for movies and series:
+**[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — Telegram assistant for movies and series:
 bilingual interface, smart AI-powered search, worldwide ratings, organized
 movie details, subtitle search, and automatic follow-up notifications for
 new episodes and releases.
+Live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
-Try it live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
-
-## Orca MCP
-
-**[Orca MCP](https://github.com/mmdju/orca-mcp)** — a free Movie/TV intelligence
+**[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
 MCP server for AI agents: 12 tools for search, TMDB + IMDb ratings, IMDb Top 250
-and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork,
-running on Cloudflare Workers with D1.
+and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork.
+Live: `https://orca-mcp.mmdju.workers.dev/mcp`
 
-Connect any MCP client: `https://orca-mcp.mmdju.workers.dev/mcp`
-
-## APIs
-
-**[imdb-top250-api](https://github.com/mmdju/imdb-top250-api)** — free JSON API
-for IMDb Top 250 movies and TV shows: search, filter, sort, and pagination,
-running on Cloudflare Workers (plus FastAPI and Docker versions).
-
-Try it live: [imdb-top250.mmdju.workers.dev/top250](https://imdb-top250.mmdju.workers.dev/top250)
-
-**[letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)** — free JSON API
-for the official Letterboxd Top 500 films: search, filter, sort, and pagination,
-running on Cloudflare Workers (plus FastAPI and Docker versions).
-
-Try it live: [letterboxd-top500.mmdju.workers.dev/top500](https://letterboxd-top500.mmdju.workers.dev/top500)
+**Movie data APIs** — the open data behind Orca MCP:
+**[imdb-top250-api](https://github.com/mmdju/imdb-top250-api)** ·
+**[letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)**,
+free JSON APIs with search, filter, sort, and pagination on Cloudflare Workers.
+Live: [top250](https://imdb-top250.mmdju.workers.dev/top250) ·
+[top500](https://letterboxd-top500.mmdju.workers.dev/top500)
 
 ## Tech Stack
 
