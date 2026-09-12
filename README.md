@@ -17,7 +17,7 @@ movie details, subtitle search, and automatic follow-up notifications for
 new episodes and releases.
 Live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
-**[Orca Save](https://github.com/mmdju/OrcaSave)** — Telegram bot.
+**[Orca Save](https://github.com/mmdju/OrcaSave)** — Telegram media downloader bot: send a link from 8 platforms (X, Instagram, TikTok, YouTube, Facebook, Threads, Pinterest, Twitch), get the file back in chat.
 Live: [t.me/OrcaSaveBot](https://t.me/OrcaSaveBot)
 
 **[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
