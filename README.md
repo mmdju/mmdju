@@ -17,6 +17,9 @@ movie details, subtitle search, and automatic follow-up notifications for
 new episodes and releases.
 Live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
+**[Orca Save](https://github.com/mmdju/OrcaSave)** — Telegram bot.
+Live: [t.me/OrcaSaveBot](https://t.me/OrcaSaveBot)
+
 **[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
 MCP server for AI agents: 12 tools for search, TMDB + IMDb ratings, IMDb Top 250
 and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork.
