@@ -18,6 +18,15 @@ new episodes and releases.
 
 Try it live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
+## Orca MCP
+
+**[Orca MCP](https://github.com/mmdju/orca-mcp)** — a free Movie/TV intelligence
+MCP server for AI agents: 12 tools for search, TMDB + IMDb ratings, IMDb Top 250
+and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork,
+running on Cloudflare Workers with D1.
+
+Connect any MCP client: `https://orca-mcp.mmdju.workers.dev/mcp`
+
 ## APIs
 
 **[imdb-top250-api](https://github.com/mmdju/imdb-top250-api)** — free JSON API
@@ -39,7 +48,7 @@ Try it live: [letterboxd-top500.mmdju.workers.dev/top500](https://letterboxd-top
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Python · JavaScript · FastAPI · REST APIs · Cloudflare Workers · D1 · KV · Docker · Telegram Bot API
+Python · JavaScript · TypeScript · FastAPI · REST APIs · MCP · Cloudflare Workers · D1 · KV · Docker · Telegram Bot API
 
 ## GitHub
 
