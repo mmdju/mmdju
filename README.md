@@ -11,13 +11,13 @@ Backend developer in progress — learning by building real things.
 
 ## Projects
 
-**[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — Telegram assistant for movies and series:
+**[Orca Movies](https://github.com/mmdju/OrcaMovies)** — Telegram assistant for movies and series:
 bilingual interface, smart AI-powered search, worldwide ratings, organized
 movie details, subtitle search, and automatic follow-up notifications for
 new episodes and releases.
 Live: [t.me/OrcaMoviesBot](https://t.me/OrcaMoviesBot)
 
-**[OrcaMCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
+**[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
 MCP server for AI agents: 12 tools for search, TMDB + IMDb ratings, IMDb Top 250
 and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork.
 Live: `https://orca-mcp.mmdju.workers.dev/mcp`
