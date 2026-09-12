@@ -40,7 +40,6 @@ Python · JavaScript · TypeScript · FastAPI · REST APIs · MCP · Cloudflare 
 
 ## GitHub
 
-![Followers](https://img.shields.io/github/followers/mmdju?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mmdju&query=$.public_repos&label=Public%20Repos&style=for-the-badge)
 
 ## Contact
