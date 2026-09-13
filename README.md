@@ -1,12 +1,12 @@
 # Hi there, I'm Javad (mmdju)
 
-Backend developer in progress — learning by building real things.
+Backend developer — I learn by building and shipping real products.
 
 ## About Me
 
 - Interested in **Python** and **backend development**
 - Currently learning server-side programming: APIs, databases, and deployment
-- Building and maintaining a live Telegram bot used by real users
+- Building and maintaining live Telegram bots, public APIs, and an MCP server used by real users
 - Open to learning, feedback, and collaboration
 
 ## Projects
@@ -18,7 +18,7 @@ new episodes and releases.
 
 **[Orca Save](https://github.com/mmdju/OrcaSave)** — Telegram media downloader bot: send a link from 8 platforms (X, Instagram, TikTok, YouTube, Facebook, Threads, Pinterest, Twitch), get the file back in chat.
 
-**[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
+**[Orca MCP](https://github.com/mmdju/OrcaMcp)** — free Movie/TV intelligence
 MCP server for AI agents: 21 tools for search, TMDB + IMDb + RT/MC ratings, IMDb Top 250
 and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork.
 
@@ -44,3 +44,4 @@ Python · JavaScript · TypeScript · FastAPI · REST APIs · MCP · Cloudflare 
 
 - GitHub: [@mmdju](https://github.com/mmdju)
 - Telegram: [@mmdju](https://t.me/mmdju)
+- 💼 Open to freelance and project work — message me on Telegram
