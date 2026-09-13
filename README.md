@@ -19,7 +19,7 @@ new episodes and releases.
 **[Orca Save](https://github.com/mmdju/OrcaSave)** — Telegram media downloader bot: send a link from 8 platforms (X, Instagram, TikTok, YouTube, Facebook, Threads, Pinterest, Twitch), get the file back in chat.
 
 **[Orca MCP](https://github.com/mmdju/orca-mcp)** — free Movie/TV intelligence
-MCP server for AI agents: 12 tools for search, TMDB + IMDb ratings, IMDb Top 250
+MCP server for AI agents: 21 tools for search, TMDB + IMDb + RT/MC ratings, IMDb Top 250
 and Letterboxd Top 500 ranks, streaming availability, episodes, and artwork.
 
 **Movie data APIs** — the open data behind Orca MCP:
