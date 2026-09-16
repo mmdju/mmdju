@@ -2,6 +2,8 @@
 
 Backend developer — I learn by building and shipping real products.
 
+> 💼 Open to freelance and project work — message me on Telegram
+
 ## About Me
 
 - Interested in **Python** and **backend development**
@@ -38,4 +40,3 @@ Python · JavaScript · TypeScript · FastAPI · REST APIs · MCP · Cloudflare 
 - Telegram: [@mmdju](https://t.me/mmdju)
 - X: [@MmdjDev](https://x.com/MmdjDev)
 - Email: [mmdj.dev@gmail.com](mailto:mmdj.dev@gmail.com)
-- 💼 Open to freelance and project work — message me on Telegram
