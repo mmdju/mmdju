@@ -2,8 +2,6 @@
 
 Backend developer — I learn by building and shipping real products.
 
-> 💼 Open to freelance and project work — message me on Telegram
-
 ## About Me
 
 - Interested in **Python** and **backend development**
