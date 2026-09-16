@@ -13,7 +13,7 @@ Backend developer — I learn by building and shipping real products.
 
 | Project | What it is | Try it |
 |---|---|---|
-| **[Digikala MCP](https://github.com/mmdju/digikala-mcp)** | MCP server for Digikala: search, price history, Q&A, reviews, deals. Read-only, 14 tools | [Live endpoint](https://digikala-mcp.mmdju.workers.dev/mcp) |
+| **[Digikala MCP](https://github.com/mmdju/digikala-mcp)** | MCP server for Digikala: search, variants, filters, price history, Q&A, reviews, deals. Read-only, 16 tools | [Live endpoint](https://digikala-mcp.mmdju.workers.dev/mcp) |
 | **[Orca Movies](https://github.com/mmdju/OrcaMovies)** | Telegram assistant for movies and series: bilingual, smart search, ratings, subtitles, release alerts | [Bot](https://t.me/OrcaMoviesBot) |
 | **[Orca MCP](https://github.com/mmdju/OrcaMcp)** | Free Movie/TV intelligence for AI agents: 21 tools, TMDB + IMDb + RT/MC ratings, streaming, episodes | [Live endpoint](https://orca-mcp.mmdju.workers.dev) |
 | **[fa-text-utils](https://github.com/mmdju/fa-text-utils)** | Tiny Persian text helpers for search: folding, digits, ZWNJ variants. Zero-dep | [Source](https://github.com/mmdju/fa-text-utils) |
