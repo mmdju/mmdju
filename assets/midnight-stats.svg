@@ -1,18 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
 <style>text{font-family:'SF Pro Text','Segoe UI',Ubuntu,sans-serif}</style>
-<rect x="0.5" y="0.5" width="339" height="199" rx="12" fill="#0A0A0F" stroke="#38383A"/>
-<circle cx="30" cy="32" r="4" fill="#0A84FF"/>
-<text x="42" y="38" font-size="16" font-weight="600" fill="#F5F5F7">Stats</text>
-<text x="310" y="38" font-size="12" fill="#636366" text-anchor="end">mmdju</text>
-<line x1="20" y1="52" x2="320" y2="52" stroke="#1C1C1E"/>
-<text x="30" y="76" font-size="13" fill="#8E8E93">Total Stars</text>
-<text x="310" y="76" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">37</text>
-<text x="30" y="101" font-size="13" fill="#8E8E93">Total Commits</text>
-<text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">170</text>
-<text x="30" y="126" font-size="13" fill="#8E8E93">Total PRs</text>
-<text x="310" y="126" font-size="13" fill="#636366" text-anchor="end">0</text>
-<text x="30" y="151" font-size="13" fill="#8E8E93">Total Issues</text>
-<text x="310" y="151" font-size="13" fill="#636366" text-anchor="end">0</text>
-<text x="30" y="176" font-size="13" fill="#8E8E93">Contributed to</text>
-<text x="310" y="176" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">8</text>
+<rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#0A0A0F" stroke="#38383A"/>
+<line x1="165" y1="28" x2="165" y2="170" stroke="#38383A"/>
+<line x1="330" y1="28" x2="330" y2="170" stroke="#38383A"/>
+<text x="82.5" y="80" font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="middle">37</text>
+<text x="82.5" y="116" font-size="14" fill="#8E8E93" text-anchor="middle">Total Stars</text>
+<text x="82.5" y="146" font-size="12" fill="#8E8E93" text-anchor="middle">across repos</text>
+<text x="247.5" y="80" font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="middle">170</text>
+<text x="247.5" y="116" font-size="14" font-weight="700" fill="#0A84FF" text-anchor="middle">Total Commits</text>
+<text x="247.5" y="146" font-size="12" fill="#8E8E93" text-anchor="middle">Sep 2024 - Present</text>
+<circle cx="247.5" cy="42" r="3" fill="#0A84FF" opacity="0.9"/>
+<text x="412.5" y="80" font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="middle">8</text>
+<text x="412.5" y="116" font-size="14" fill="#8E8E93" text-anchor="middle">Contributed to</text>
+<text x="412.5" y="146" font-size="12" fill="#8E8E93" text-anchor="middle">repositories</text>
 </svg>
