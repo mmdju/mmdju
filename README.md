@@ -50,7 +50,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 
 ### Stats
 
-<img src="./assets/midnight-stats.svg" height="195" />
-<img src="https://streak-stats.demolab.com?user=mmdju&background=0A0A0F&border=38383A&stroke=38383A&ring=0A84FF&fire=0A84FF&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=0A84FF&sideLabels=8E8E93&dates=8E8E93" height="195" />
+| ![Stats](./assets/midnight-stats.svg) | ![Streak](https://streak-stats.demolab.com?user=mmdju&background=0A0A0F&border=38383A&stroke=38383A&ring=0A84FF&fire=0A84FF&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=0A84FF&sideLabels=8E8E93&dates=8E8E93&hide_border=true) |
+|---|---|
 
 </div>
