@@ -1,40 +1,56 @@
-# Hi there, I'm Javad (mmdju)
+<div align="center">
 
-Backend developer — I learn by building and shipping real products.
+# Hi there, I'm Javad
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CA5E0&center=true&vCenter=true&width=500&lines=Backend+Developer;MCP+%7C+APIs+%7C+Telegram+Bots;I+learn+by+building+and+shipping)](https://github.com/mmdju)
 
-- Interested in **Python** and **backend development**
-- Currently learning server-side programming: APIs, databases, and deployment
-- Building and maintaining live Telegram bots, public APIs, and MCP servers used by real users
-- Open to learning, feedback, and collaboration
+**Code, automation, and whatever catches my interest.**
 
-## Projects
+Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 
-| Project | What it is | Try it |
-|---|---|---|
-| **[Digikala MCP](https://github.com/mmdju/digikala-mcp)** | MCP server for Digikala: search, variants, filters, price history, Q&A, reviews, deals. Read-only, 16 tools | [Live endpoint](https://digikala-mcp.mmdju.workers.dev/mcp) |
-| **[Orca Movies](https://github.com/mmdju/OrcaMovies)** | Telegram assistant for movies and series: bilingual, smart search, ratings, subtitles, release alerts | [Bot](https://t.me/OrcaMoviesBot) |
-| **[Orca MCP](https://github.com/mmdju/OrcaMcp)** | Free Movie/TV intelligence for AI agents: 21 tools, TMDB + IMDb + RT/MC ratings, streaming, episodes | [Live endpoint](https://orca-mcp.mmdju.workers.dev) |
-| **[fa-text-utils](https://github.com/mmdju/fa-text-utils)** | Tiny Persian text helpers for search: folding, digits, ZWNJ variants. Zero-dep | [Source](https://github.com/mmdju/fa-text-utils) |
-| **[Orca Save](https://github.com/mmdju/OrcaSave)** | Telegram media downloader: link from 8 platforms in, file back in chat | [Bot](https://t.me/OrcaSaveBot) |
-| **[imdb-top250-api](https://github.com/mmdju/imdb-top250-api)** · **[letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)** | Open data behind Orca MCP: free JSON APIs, search, filter, sort, pagination | [IMDb](https://imdb-top250.mmdju.workers.dev/top250) · [Letterboxd](https://letterboxd-top500.mmdju.workers.dev) |
+[![Telegram](https://img.shields.io/badge/Telegram-@mmdju-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmdju)
+[![X](https://img.shields.io/badge/X-@MmdjDev-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MmdjDev)
+[![Email](https://img.shields.io/badge/Email-mmdj.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmdj.dev@gmail.com)
 
-## Tech Stack
+</div>
+
+---
+
+<div align="center">
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Python · JavaScript · TypeScript · FastAPI · REST APIs · MCP · Cloudflare Workers · D1 · KV · Docker · Telegram Bot API
+</div>
 
-## GitHub
+---
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mmdju&query=$.public_repos&label=Public%20Repos&style=for-the-badge)
+<div align="center">
 
-## Contact
+### Featured Projects
 
-- Telegram: [@mmdju](https://t.me/mmdju)
-- X: [@MmdjDev](https://x.com/MmdjDev)
-- Email: [mmdj.dev@gmail.com](mailto:mmdj.dev@gmail.com)
+| | |
+|---|---|
+| **[Digikala MCP](https://github.com/mmdju/digikala-mcp)** — MCP server for Iran's biggest marketplace. 16 tools, read-only, no key needed. <br> [Live endpoint](https://digikala-mcp.mmdju.workers.dev/mcp) | **[Orca MCP](https://github.com/mmdju/OrcaMcp)** — Free Movie/TV intelligence for AI agents. 21 tools, TMDB + IMDb + RT/MC. <br> [Live endpoint](https://orca-mcp.mmdju.workers.dev) |
+| **[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — Bilingual Telegram assistant: smart search, ratings, subtitles, alerts. <br> [Bot](https://t.me/OrcaMoviesBot) | **[OrcaSave](https://github.com/mmdju/OrcaSave)** — Media downloader bot. Link from 8 platforms in, file back in chat. <br> [Bot](https://t.me/OrcaSaveBot) |
+
+[fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
+
+</div>
+
+---
+
+<div align="center">
+
+### Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mmdju&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdju&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
