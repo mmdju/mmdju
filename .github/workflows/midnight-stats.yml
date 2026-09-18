@@ -1,0 +1,54 @@
+name: Update midnight stats
+
+on:
+  schedule:
+    - cron: '30 1 */3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build midnight-stats.svg from live GitHub data
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const user = 'mmdju';
+            const { data: repos } = await github.rest.repos.listForUser({ username: user, per_page: 100 });
+            const own = repos.filter(r => !r.fork);
+            const stars = own.reduce((s, r) => s + r.stargazers_count, 0);
+            const { data: me } = await github.rest.users.getByUsername({ username: user });
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+            <style>text{font-family:'SF Pro Text','Segoe UI',Ubuntu,sans-serif}</style>
+            <rect x="0.5" y="0.5" width="339" height="199" rx="12" fill="#0A0A0F" stroke="#38383A"/>
+            <circle cx="30" cy="32" r="4" fill="#0A84FF"/>
+            <text x="42" y="38" font-size="16" font-weight="600" fill="#F5F5F7">Stats</text>
+            <text x="310" y="38" font-size="12" fill="#636366" text-anchor="end">${user}</text>
+            <line x1="20" y1="52" x2="320" y2="52" stroke="#1C1C1E"/>
+            <text x="30" y="76" font-size="13" fill="#8E8E93">Total Stars</text>
+            <text x="310" y="76" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">${stars}</text>
+            <text x="30" y="101" font-size="13" fill="#8E8E93">Public Repos</text>
+            <text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">${me.public_repos}</text>
+            <text x="30" y="126" font-size="13" fill="#8E8E93">Followers</text>
+            <text x="310" y="126" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">${me.followers}</text>
+            <text x="30" y="151" font-size="13" fill="#8E8E93">Following</text>
+            <text x="310" y="151" font-size="13" fill="#F5F5F7" text-anchor="end">${me.following}</text>
+            <text x="30" y="176" font-size="13" fill="#8E8E93">Forks Earned</text>
+            <text x="310" y="176" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">${own.reduce((s, r) => s + r.forks_count, 0)}</text>
+            </svg>
+            `;
+            fs.writeFileSync('assets/midnight-stats.svg', svg);
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/midnight-stats.svg
+          git diff --cached --quiet || git commit -m "chore: refresh midnight stats"
+          git push
