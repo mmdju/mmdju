@@ -43,14 +43,3 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 [fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
 
 </div>
-
----
-
-<div align="center">
-
-### Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mmdju&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdju&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
