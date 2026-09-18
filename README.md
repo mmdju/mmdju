@@ -35,10 +35,44 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 
 ### Featured Projects
 
-| | |
-|---|---|
-| **[Digikala MCP](https://github.com/mmdju/digikala-mcp)** — MCP server for Iran's biggest marketplace. 16 tools, read-only, no key needed. <br> [Live endpoint](https://digikala-mcp.mmdju.workers.dev/mcp) | **[Orca MCP](https://github.com/mmdju/OrcaMcp)** — Free Movie/TV intelligence for AI agents. 21 tools, TMDB + IMDb + RT/MC. <br> [Live endpoint](https://orca-mcp.mmdju.workers.dev) |
-| **[OrcaMovies](https://github.com/mmdju/OrcaMovies)** — Bilingual Telegram assistant: smart search, ratings, subtitles, alerts. <br> [Bot](https://t.me/OrcaMoviesBot) | **[OrcaSave](https://github.com/mmdju/OrcaSave)** — Media downloader bot. Link from 8 platforms in, file back in chat. <br> [Bot](https://t.me/OrcaSaveBot) |
+<table>
+<tr>
+<td width="50%">
+
+**Digikala MCP**
+<br>MCP server for Iran's biggest marketplace. 16 tools, read-only, no key needed.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/digikala-mcp?style=social)](https://github.com/mmdju/digikala-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://digikala-mcp.mmdju.workers.dev/mcp)
+
+</td>
+<td width="50%">
+
+**Orca MCP**
+<br>Free Movie/TV intelligence for AI agents. 21 tools, TMDB + IMDb + RT/MC.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/OrcaMcp?style=social)](https://github.com/mmdju/OrcaMcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://orca-mcp.mmdju.workers.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**OrcaMovies**
+<br>Bilingual Telegram assistant: smart search, ratings, subtitles, alerts.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/OrcaMovies?style=social)](https://github.com/mmdju/OrcaMovies) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaMoviesBot)
+
+</td>
+<td width="50%">
+
+**OrcaSave**
+<br>Media downloader bot. Link from 8 platforms in, file back in chat.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/OrcaSave?style=social)](https://github.com/mmdju/OrcaSave) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaSaveBot)
+
+</td>
+</tr>
+</table>
 
 [fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
 
