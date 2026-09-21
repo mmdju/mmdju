@@ -50,7 +50,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 **Orca MCP**
 <br>Free Movie/TV intelligence for AI agents. 21 tools, TMDB + IMDb + RT/MC.
 <br><br>
-[![Stars](https://img.shields.io/github/stars/mmdju/OrcaMcp?style=social)](https://github.com/mmdju/OrcaMcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://orca-mcp.mmdju.workers.dev)
+[![Stars](https://img.shields.io/github/stars/mmdju/orca-mcp?style=social)](https://github.com/mmdju/orca-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://orca-mcp.mmdju.workers.dev)
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 **OrcaMovies**
 <br>Bilingual Telegram assistant: smart search, ratings, subtitles, alerts.
 <br><br>
-[![Stars](https://img.shields.io/github/stars/mmdju/OrcaMovies?style=social)](https://github.com/mmdju/OrcaMovies) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaMoviesBot)
+[![Stars](https://img.shields.io/github/stars/mmdju/orca-movies?style=social)](https://github.com/mmdju/orca-movies) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaMoviesBot)
 
 </td>
 <td width="50%">
@@ -68,7 +68,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 **OrcaSave**
 <br>Media downloader bot. Link from 8 platforms in, file back in chat.
 <br><br>
-[![Stars](https://img.shields.io/github/stars/mmdju/OrcaSave?style=social)](https://github.com/mmdju/OrcaSave) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaSaveBot)
+[![Stars](https://img.shields.io/github/stars/mmdju/orca-save?style=social)](https://github.com/mmdju/orca-save) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaSaveBot)
 
 </td>
 </tr>
