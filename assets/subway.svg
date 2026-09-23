@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" font-family="Helvetica, Arial, sans-serif">
+  <rect width="880" height="176" fill="#F4F4F0"/>
+
+  <text x="36" y="34" font-size="12" letter-spacing="5" fill="#1B1B1B">MAPPA</text>
+  <g transform="translate(120 20)">
+    <circle cx="0" cy="0" r="17" fill="none" stroke="#D0342C" stroke-width="4"/>
+    <line x1="-12" y1="0" x2="12" y2="0" stroke="#D0342C" stroke-width="4"/>
+    <text x="26" y="5" font-size="15" font-weight="bold" letter-spacing="1" fill="#1B1B1B">META</text>
+  </g>
+  <g transform="translate(238 20)">
+    <circle cx="0" cy="0" r="17" fill="none" stroke="#1B5E9E" stroke-width="4"/>
+    <line x1="0" y1="-12" x2="0" y2="12" stroke="#1B5E9E" stroke-width="4"/>
+    <text x="26" y="5" font-size="15" font-weight="bold" letter-spacing="1" fill="#1B1B1B">FARS</text>
+  </g>
+  <g transform="translate(352 20)">
+    <circle cx="0" cy="0" r="17" fill="none" stroke="#E8A33D" stroke-width="4"/>
+    <text x="0" y="6" text-anchor="middle" font-size="15" font-weight="bold" fill="#1B1B1B">K</text>
+    <text x="26" y="5" font-size="15" font-weight="bold" letter-spacing="1" fill="#1B1B1B">KARR</text>
+  </g>
+  <text x="440" y="34" text-anchor="middle" font-size="12" letter-spacing="4" fill="#6B6B6B">TARJOMEH NAKHOSTIN</text>
+
+  <line x1="0" y1="46" x2="880" y2="46" stroke="#CFCFC8" stroke-width="1.5"/>
+
+  <g stroke="#2B2B2B" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M36 92H150"/>
+    <path d="M186 92H320"/>
+    <path d="M356 92H470"/>
+    <path d="M506 92H640"/>
+    <path d="M676 92H800"/>
+  </g>
+  <g fill="#2B2B2B">
+    <circle cx="168" cy="92" r="9"/>
+    <circle cx="338" cy="92" r="9"/>
+    <circle cx="488" cy="92" r="9"/>
+    <circle cx="658" cy="92" r="9"/>
+  </g>
+  <circle cx="168" cy="92" r="4" fill="#F4F4F0"/>
+  <circle cx="338" cy="92" r="4" fill="#F4F4F0"/>
+  <circle cx="488" cy="92" r="4" fill="#F4F4F0"/>
+  <circle cx="658" cy="92" r="4" fill="#F4F4F0"/>
+
+  <text x="90" y="120" text-anchor="middle" font-size="12" fill="#2B2B2B">DIGIKALA</text>
+  <text x="252" y="120" text-anchor="middle" font-size="12" fill="#2B2B2B">DIVAR</text>
+  <text x="410" y="120" text-anchor="middle" font-size="12" fill="#2B2B2B">ORCA</text>
+  <text x="572" y="120" text-anchor="middle" font-size="12" fill="#2B2B2B">TELEGRAM</text>
+  <text x="738" y="120" text-anchor="middle" font-size="12" fill="#2B2B2B">JSON APIs</text>
+
+  <rect x="24" y="134" width="832" height="26" fill="#2B2B2B"/>
+  <text x="40" y="152" font-size="11" letter-spacing="2" fill="#F4F4F0">CHANGE AT ANY STOP &#8212; EVERY LINE IS READ-ONLY</text>
+  <text x="840" y="152" text-anchor="end" font-size="11" letter-spacing="2" fill="#F4F4F0">9 STOPS &#183; 180 STARS &#183; 38 FOLLOWERS</text>
+</svg>

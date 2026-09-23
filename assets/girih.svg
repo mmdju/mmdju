@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <g id="star8">
+      <polygon points="0,-26 7.4,-7.4 26,0 7.4,7.4 0,26 -7.4,7.4 -26,0 -7.4,-7.4" fill="none" stroke="currentColor" stroke-width="2"/>
+      <polygon points="0,-14 14,0 0,14 -14,0" fill="currentColor" opacity="0.5"/>
+    </g>
+  </defs>
+  <rect width="880" height="216" fill="#0E2B3D"/>
+  <rect width="880" height="216" fill="none" stroke="#0A1E2B" stroke-width="6"/>
+
+  <g color="#2E8B9E">
+    <use href="#star8" x="120" y="70"/><use href="#star8" x="212" y="70"/><use href="#star8" x="304" y="70"/>
+    <use href="#star8" x="396" y="70"/><use href="#star8" x="488" y="70"/><use href="#star8" x="580" y="70"/>
+    <use href="#star8" x="672" y="70"/><use href="#star8" x="764" y="70"/>
+  </g>
+  <g color="#C9A227">
+    <use href="#star8" x="74" y="114"/><use href="#star8" x="166" y="114"/><use href="#star8" x="258" y="114"/>
+    <use href="#star8" x="350" y="114"/><use href="#star8" x="442" y="114"/><use href="#star8" x="534" y="114"/>
+    <use href="#star8" x="626" y="114"/><use href="#star8" x="718" y="114"/><use href="#star8" x="810" y="114"/>
+  </g>
+  <g color="#4A7C8C">
+    <use href="#star8" x="120" y="158"/><use href="#star8" x="212" y="158"/><use href="#star8" x="304" y="158"/>
+    <use href="#star8" x="396" y="158"/><use href="#star8" x="488" y="158"/><use href="#star8" x="580" y="158"/>
+    <use href="#star8" x="672" y="158"/><use href="#star8" x="764" y="158"/>
+  </g>
+  <g stroke="#4A7C8C" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M74 70H810M74 158H810"/>
+    <path d="M74 26V192M810 26V192"/>
+  </g>
+
+  <rect x="196" y="72" width="488" height="86" fill="#0E2B3D" stroke="#C9A227" stroke-width="2"/>
+  <text x="440" y="112" text-anchor="middle" font-size="40" font-weight="bold" letter-spacing="10" fill="#F5EFE0">JAVAD</text>
+  <text x="440" y="140" text-anchor="middle" font-size="11" letter-spacing="4" fill="#C9A227">READ-ONLY MCP SERVERS &amp; APIs &#183; TEHRAN</text>
+  <text x="440" y="200" text-anchor="middle" font-size="10" letter-spacing="3" fill="#8FB6CC">9 REPOSITORIES &#183; 180 STARS &#183; 38 FOLLOWERS &#183; 18 FORKS &#183; 44 TOOLS</text>
+</svg>

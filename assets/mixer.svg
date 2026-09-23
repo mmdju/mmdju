@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="186" viewBox="0 0 880 186" font-family="Helvetica, Arial, sans-serif">
+  <rect width="880" height="186" fill="#1A1A1C"/>
+  <rect x="0" y="0" width="880" height="30" fill="#242427"/>
+  <circle cx="18" cy="15" r="4" fill="#FF5F57"/><circle cx="36" cy="15" r="4" fill="#FEBC2E"/><circle cx="54" cy="15" r="4" fill="#28C840"/>
+  <text x="440" y="20" text-anchor="middle" font-size="11" letter-spacing="4" fill="#8A8A92">JAVAD &#183; MIXING DESK &#183; 8 CHANNELS</text>
+
+  <g>
+    <g transform="translate(28 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#FF6B5B">DIGI</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">16 TOOLS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="92" width="10" height="26" rx="2" fill="#FF6B5B"/>
+      <circle cx="47" cy="158" r="9" fill="#FF6B5B" opacity="0.9"/>
+    </g>
+    <g transform="translate(130 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#F7C948">DIVAR</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">7 TOOLS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="100" width="10" height="26" rx="2" fill="#F7C948"/>
+      <circle cx="47" cy="158" r="9" fill="#F7C948" opacity="0.9"/>
+    </g>
+    <g transform="translate(232 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#5BC8A0">ORCA</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">21 TOOLS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="86" width="10" height="26" rx="2" fill="#5BC8A0"/>
+      <circle cx="47" cy="158" r="9" fill="#5BC8A0" opacity="0.9"/>
+    </g>
+    <g transform="translate(334 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#8AB4F8">TELEGRAM</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">2 BOTS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="96" width="10" height="26" rx="2" fill="#8AB4F8"/>
+      <circle cx="47" cy="158" r="9" fill="#8AB4F8" opacity="0.9"/>
+    </g>
+    <g transform="translate(436 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#C79BF0">JSON APIs</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">TOP LISTS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="104" width="10" height="26" rx="2" fill="#C79BF0"/>
+      <circle cx="47" cy="158" r="9" fill="#C79BF0" opacity="0.9"/>
+    </g>
+    <g transform="translate(538 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#F0A868">PERSIAN</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">TEXT UTILS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="112" width="10" height="26" rx="2" fill="#F0A868"/>
+      <circle cx="47" cy="158" r="9" fill="#F0A868" opacity="0.9"/>
+    </g>
+    <g transform="translate(640 0)">
+      <rect x="0" y="40" width="94" height="128" rx="4" fill="#242427" stroke="#33333A"/>
+      <text x="47" y="58" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#6FD4E0">CLOUDFLARE</text>
+      <text x="47" y="70" text-anchor="middle" font-size="9" fill="#6A6A72">WORKERS</text>
+      <rect x="30" y="82" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="98" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <rect x="30" y="114" width="34" height="10" rx="2" fill="#2E2E33"/>
+      <g stroke="#2E2E33" stroke-width="1"><path d="M20 160H74"/><path d="M20 132H74"/><path d="M20 104H74"/><path d="M20 76H74"/></g>
+      <rect x="42" y="90" width="10" height="26" rx="2" fill="#6FD4E0"/>
+      <circle cx="47" cy="158" r="9" fill="#6FD4E0" opacity="0.9"/>
+    </g>
+    <g transform="translate(742 0)">
+      <rect x="0" y="40" width="110" height="128" rx="4" fill="#2B2B30" stroke="#454550"/>
+      <text x="55" y="60" text-anchor="middle" font-size="10" letter-spacing="1.6" fill="#FFFFFF">MASTER</text>
+      <circle cx="55" cy="86" r="16" fill="#1A1A1C" stroke="#454550"/>
+      <path d="M55 86L55 70" stroke="#FF5F57" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M43 96H67" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+      <text x="55" y="128" text-anchor="middle" font-size="9" fill="#6A6A72">180 &#9733;</text>
+      <text x="55" y="146" text-anchor="middle" font-size="9" fill="#6A6A72">38 FOLLOWS</text>
+      <text x="55" y="162" text-anchor="middle" font-size="9" fill="#6A6A72">18 FORKS</text>
+    </g>
+  </g>
+</svg>
