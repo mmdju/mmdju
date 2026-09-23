@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232">
+  <title>mmdju // backend — itemized receipt</title>
+  <style>
+    text{font-family:'SF Mono','Cascadia Mono',Menlo,Consolas,Ubuntu,monospace}
+    .big{font-size:16px;font-weight:700;letter-spacing:1.8px;fill:#1A1A1A}
+    .lbl{font-size:8px;letter-spacing:1.3px;fill:#6E675E}
+    .val{font-size:9.5px;fill:#1A1A1A;text-anchor:end}
+    .sml{font-size:9px;fill:#1A1A1A}
+    .tiny{font-size:7.5px;letter-spacing:.6px;fill:#6E675E}
+    .edge{font-size:8px;letter-spacing:2.2px;fill:#B4AB9D}
+    .dash{stroke:#C0B8AB;stroke-width:.7;stroke-dasharray:2 3}
+    .sol{stroke:#1A1A1A;stroke-width:1.4}
+  </style>
+
+  <rect x="0" y="0" width="880" height="232" fill="#F1ECE1"/>
+
+  <path d="M240 0 H640 V196
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0 a7 7 0 0 0 -14 0
+           V0 H240 Z"
+        fill="#FFFDF7" stroke="#DBD2C0" stroke-width="1"/>
+
+  <line class="dash" x1="252" y1="40" x2="628" y2="40"/>
+  <line class="dash" x1="252" y1="62" x2="628" y2="62"/>
+  <line class="dash" x1="252" y1="110" x2="628" y2="110"/>
+  <line class="dash" x1="252" y1="134" x2="628" y2="134"/>
+  <line class="sol" x1="252" y1="156" x2="628" y2="156"/>
+
+  <text class="big" x="440" y="27" text-anchor="middle">mmdju // backend</text>
+
+  <text class="lbl" x="252" y="54">DESCRIPTION</text>
+  <text class="sml" x="252" y="76">read-only MCP servers + APIs</text>
+  <text class="sml" x="252" y="90">for the Persian web</text>
+
+  <text class="lbl" x="252" y="122">QTY  ITEM</text>
+  <text class="lbl" x="628" y="122" text-anchor="end">STARS</text>
+
+  <text class="lbl" x="252" y="150">LOCATION</text>
+  <text class="val" x="628" y="150">TEHRAN, IR</text>
+
+  <text class="tiny" x="252" y="172">NO API KEY REQUIRED</text>
+  <text class="tiny" x="628" y="172">REF 35.69N 51.39E</text>
+
+  <text class="lbl" x="252" y="190">TOTAL</text>
+  <text class="big" x="628" y="191" text-anchor="end">202 *</text>
+
+  <text class="edge" x="196" y="118" text-anchor="end">P R I N T E D   O N   C L O U D F L A R E</text>
+  <text class="edge" x="684" y="118">W O R K E R S   R U N T I M E</text>
+</svg>

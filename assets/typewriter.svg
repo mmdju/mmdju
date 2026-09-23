@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="A typed, slightly rotated index card for Javad with a red CLASSIFIED stamp, above a numbered dossier list with some words redacted.">
+  <title>Javad — noir index card and redacted file list</title>
+  <style>
+    .mono { font-family: 'SF Mono', 'Cascadia Mono', Consolas, 'Ubuntu Mono', 'DejaVu Sans Mono', monospace; }
+    .sans { font-family: 'SF Pro Text', 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .cursor { animation: blink 1.05s steps(1, end) infinite; }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+  </style>
+
+  <!-- opaque background: identical in light and dark GitHub themes -->
+  <rect width="880" height="240" fill="#0B0B0B"/>
+
+  <defs>
+    <filter id="lift" x="-6%" y="-16%" width="112%" height="136%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000000" flood-opacity=".75"/>
+    </filter>
+  </defs>
+
+  <!-- dust -->
+  <g fill="#F2F2F2">
+    <circle cx="20" cy="26" r="1" opacity=".2"/>
+    <circle cx="864" cy="12" r="1" opacity=".16"/>
+    <circle cx="14" cy="150" r="1.2" opacity=".12"/>
+    <circle cx="868" cy="120" r="1" opacity=".18"/>
+  </g>
+
+  <!-- ============ the index card ============ -->
+  <g transform="rotate(-1.1 440 96)">
+    <g filter="url(#lift)">
+      <rect x="52" y="20" width="776" height="152" rx="7" fill="#F2F2F2"/>
+    </g>
+
+    <!-- paperclip straddling the top edge -->
+    <path d="M118 10 a7 7 0 0 1 7 7 v26 a10 10 0 0 1 -20 0 v-34 a5 5 0 0 1 10 0 v30"
+          fill="none" stroke="#141414" stroke-width="5.5" stroke-linecap="round"/>
+    <path d="M118 10 a7 7 0 0 1 7 7 v26 a10 10 0 0 1 -20 0 v-34 a5 5 0 0 1 10 0 v30"
+          fill="none" stroke="#8C8C8C" stroke-width="1.8" stroke-linecap="round" opacity=".85"/>
+
+    <text x="142" y="36" class="mono" font-size="10.5" letter-spacing="2.4" fill="#8A8A8A">NO. 09 / TEHRAN</text>
+
+    <!-- typed name -->
+    <text x="100" y="108" class="mono" font-size="42" font-weight="700" letter-spacing="7" fill="#0B0B0B">JAVAD</text>
+    <!-- blinking underscore cursor -->
+    <rect class="cursor" x="278" y="112" width="24" height="5" fill="#0B0B0B"/>
+
+    <!-- the one typed line -->
+    <text x="100" y="146" class="sans" font-size="12.5" letter-spacing="2.1" fill="#3A3A3A">READ-ONLY MCP SERVERS + APIS FOR THE PERSIAN WEB</text>
+
+    <!-- the only other red on the card -->
+    <rect x="100" y="158" width="44" height="3" fill="#FF3B30"/>
+
+    <!-- classified stamp -->
+    <g transform="rotate(-16 700 74)" opacity=".88">
+      <rect x="596" y="50" width="208" height="48" fill="none" stroke="#FF3B30" stroke-width="3"/>
+      <rect x="603" y="57" width="194" height="34" fill="none" stroke="#FF3B30" stroke-width="1" opacity=".7"/>
+      <text x="700" y="81" class="mono" font-size="18" font-weight="700" letter-spacing="2.6" fill="#FF3B30" text-anchor="middle">CLASSIFIED</text>
+    </g>
+  </g>
+
+  <!-- ============ the file list ============ -->
+  <g class="mono" font-size="11" letter-spacing=".6">
+    <text x="52"  y="192" fill="#FF3B30">FILE 01</text>
+    <text x="252" y="192" fill="#8A8A8A">marketplace search and price history</text>
+    <rect x="425" y="184" width="95" height="9" fill="#0B0B0B"/>
+
+    <text x="52"  y="205" fill="#FF3B30">FILE 02</text>
+    <text x="252" y="205" fill="#8A8A8A">classifieds, medians, verdicts</text>
+    <rect x="346" y="197" width="58" height="9" fill="#0B0B0B"/>
+
+    <text x="52"  y="218" fill="#FF3B30">FILE 03</text>
+    <text x="252" y="218" fill="#8A8A8A">movies and tv, 21 tools, bilingual</text>
+    <rect x="360" y="210" width="58" height="9" fill="#0B0B0B"/>
+
+    <text x="52"  y="231" fill="#FF3B30">FILE 04</text>
+    <text x="252" y="231" fill="#8A8A8A">telegram assistant, persian first</text>
+    <rect x="403" y="223" width="58" height="9" fill="#0B0B0B"/>
+  </g>
+
+  <!-- a stray mark where the redactions end -->
+  <g stroke="#8A8A8A" stroke-width="1" opacity=".5">
+    <path d="M524 184 h8 M405 197 h8 M421 210 h8 M464 223 h8"/>
+  </g>
+</svg>
