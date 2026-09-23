@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210">
+  <style>
+    text{font-family:'SF Pro Text','Segoe UI',Ubuntu,sans-serif}
+    .row{font-size:12px;fill:#8E8E93}
+    .val{font-size:12px;fill:#F5F5F7;font-weight:600;text-anchor:end}
+    .track{fill:#1C1C1E}
+    .fill{fill:#0A84FF}
+    .star{font-size:10.5px;fill:#5AC8FA;font-weight:700;text-anchor:end}
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="209" rx="12" fill="#0A0A0F" stroke="#38383A"/>
+  <circle cx="28" cy="30" r="4" fill="#0A84FF"/>
+  <text x="40" y="36" font-size="15" font-weight="600" fill="#F5F5F7">Signal</text>
+  <text x="852" y="36" font-size="11" fill="#636366" text-anchor="end">stars per project · mmdju</text>
+  <line x1="20" y1="50" x2="860" y2="50" stroke="#1C1C1E"/>
+
+  <g transform="translate(24,66)">
+    <text class="row" x="0" y="10">digikala-mcp</text>
+    <rect class="track" x="0" y="18" width="700" height="6" rx="3"/>
+    <rect class="fill" x="0" y="18" width="700" height="6" rx="3"/>
+    <text class="val" x="800" y="25">112</text>
+    <text class="star" x="840" y="25">★</text>
+  </g>
+  <g transform="translate(24,102)">
+    <text class="row" x="0" y="10">divar-mcp</text>
+    <rect class="track" x="0" y="18" width="700" height="6" rx="3"/>
+    <rect class="fill" x="0" y="18" width="356" height="6" rx="3"/>
+    <text class="val" x="800" y="25">57</text>
+    <text class="star" x="840" y="25">★</text>
+  </g>
+  <g transform="translate(24,138)">
+    <text class="row" x="0" y="10">orca-mcp</text>
+    <rect class="track" x="0" y="18" width="700" height="6" rx="3"/>
+    <rect class="fill" x="0" y="18" width="38" height="6" rx="3"/>
+    <text class="val" x="800" y="25">6</text>
+    <text class="star" x="840" y="25">★</text>
+  </g>
+  <g transform="translate(24,174)">
+    <text class="row" x="0" y="10">orca-movies</text>
+    <rect class="track" x="0" y="18" width="700" height="6" rx="3"/>
+    <rect class="fill" x="0" y="18" width="38" height="6" rx="3"/>
+    <text class="val" x="800" y="25">6</text>
+    <text class="star" x="840" y="25">★</text>
+  </g>
+</svg>

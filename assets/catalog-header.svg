@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="Javad. Catalogue of public work. Read-only MCP servers and APIs for the Persian web. Telegram bots on Cloudflare Workers. Tehran, Iran.">
+  <rect width="880" height="132" fill="#FFFFFF"/>
+
+  <!-- top rule -->
+  <rect x="32" y="26" width="816" height="1" fill="#E5E7EB"/>
+
+  <!-- small caps label -->
+  <text x="32" y="50" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="2.6" fill="#6B7280">JAVAD &#8212; CATALOGUE OF PUBLIC WORK</text>
+  <text x="848" y="50" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="1.6" fill="#6B7280">TEHRAN, IRAN</text>
+
+  <!-- name -->
+  <text x="30" y="97" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="-0.8" fill="#111827">Javad</text>
+
+  <!-- positioning, one line each, right aligned -->
+  <text x="848" y="82" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#6B7280">Read-only MCP servers and APIs for the Persian web.</text>
+  <text x="848" y="102" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#6B7280">Telegram bots &#8212; everything on Cloudflare Workers.</text>
+
+  <!-- thin accent line -->
+  <rect x="32" y="116" width="56" height="2" fill="#2563EB"/>
+
+  <!-- bottom rule -->
+  <rect x="32" y="126" width="816" height="1" fill="#E5E7EB"/>
+</svg>

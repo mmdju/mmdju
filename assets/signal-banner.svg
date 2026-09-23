@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110">
+  <style>
+    text{font-family:'SF Pro Text','Segoe UI',Ubuntu,sans-serif}
+    @keyframes sweep{0%,100%{opacity:.2}50%{opacity:1}}
+    @keyframes rise{0%{transform:scaleY(.1)}100%{transform:scaleY(1)}}
+    .t{font-size:13px;fill:#F5F5F7;font-weight:600}
+    .s{font-size:10px;fill:#636366}
+    .bar{fill:#0A84FF;transform-origin:bottom;animation:rise .7s ease-out backwards}
+    .lbl{font-size:10.5px;fill:#8E8E93}
+    .num{font-size:10.5px;fill:#F5F5F7;font-weight:600;text-anchor:end}
+  </style>
+
+  <rect x="0.5" y="0.5" width="699" height="109" rx="12" fill="#0A0A0F" stroke="#38383A"/>
+
+  <text class="t" x="24" y="38">JAVAD</text>
+  <text class="s" x="24" y="56">backend developer · tehran</text>
+
+  <!-- signal strength, 4 bars, tallest lit -->
+  <g transform="translate(150,26)">
+    <rect x="0"  y="24" width="7" height="10" rx="2" fill="#0A84FF" opacity=".28" style="animation:sweep 1.8s ease-in-out infinite"/>
+    <rect x="13" y="16" width="7" height="18" rx="2" fill="#0A84FF" opacity=".45" style="animation:sweep 1.8s ease-in-out .15s infinite"/>
+    <rect x="26" y="8"  width="7" height="26" rx="2" fill="#0A84FF" opacity=".65" style="animation:sweep 1.8s ease-in-out .3s infinite"/>
+    <rect x="39" y="0"  width="7" height="34" rx="2" fill="#0A84FF" style="animation:sweep 1.8s ease-in-out .45s infinite"/>
+  </g>
+
+  <text class="t" x="230" y="38">MCP · APIs · TELEGRAM BOTS</text>
+  <text class="s" x="230" y="56">read-only, keyless, honest data</text>
+
+  <!-- a small live ticker of what is deployed right now -->
+  <g transform="translate(24,80)">
+    <circle cx="3" cy="-4" r="3" fill="#28C840"/>
+    <text class="s" x="14" y="0">3 workers live · 2 bots live · open to work</text>
+  </g>
+
+  <text class="s" x="676" y="84" text-anchor="end">mmdju</text>
+</svg>
