@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <style>
+    text{font-family:'SF Pro Text','Segoe UI',Ubuntu,sans-serif}
+    @keyframes scan{0%,100%{opacity:.25}50%{opacity:.9}}
+    .card{fill:#101015;stroke:#242428;stroke-width:1}
+    .cap{font-size:13px;font-weight:700;fill:#F5F5F7}
+    .cnt{font-size:9.5px;fill:#0A84FF;font-weight:600}
+    .tag{font-size:8.5px;fill:#636366}
+    .dot{fill:#0A84FF;animation:scan 2.6s ease-in-out infinite}
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="149" rx="12" fill="#0A0A0F" stroke="#38383A"/>
+  <circle cx="28" cy="30" r="4" fill="#0A84FF"/>
+  <text x="40" y="36" font-size="15" font-weight="600" fill="#F5F5F7">The tool belt</text>
+  <text x="852" y="36" font-size="11.5" fill="#636366" text-anchor="end">mmdju</text>
+  <line x1="20" y1="50" x2="860" y2="50" stroke="#1C1C1E"/>
+
+  <rect class="card" x="20" y="62" width="205" height="70" rx="10"/>
+  <circle class="dot" cx="40" cy="80" r="3.5"/>
+  <text class="cap" x="52" y="85">digikala-mcp</text>
+  <text class="cnt" x="212" y="85" text-anchor="end">16 tools</text>
+  <text class="tag" x="40" y="105">search · compare · price-check</text>
+  <text class="tag" x="40" y="119" fill="#3A3A3C">112★ · workers · live</text>
+
+  <rect class="card" x="237" y="62" width="205" height="70" rx="10"/>
+  <circle class="dot" cx="257" cy="80" r="3.5" style="animation-delay:.2s"/>
+  <text class="cap" x="269" y="85">divar-mcp</text>
+  <text class="cnt" x="429" y="85" text-anchor="end">7 tools</text>
+  <text class="tag" x="257" y="105">ads · prices · market verdict</text>
+  <text class="tag" x="257" y="119" fill="#3A3A3C">57★ · workers · live</text>
+
+  <rect class="card" x="454" y="62" width="205" height="70" rx="10"/>
+  <circle class="dot" cx="474" cy="80" r="3.5" style="animation-delay:.4s"/>
+  <text class="cap" x="486" y="85">orca-mcp</text>
+  <text class="cnt" x="646" y="85" text-anchor="end">21 tools</text>
+  <text class="tag" x="474" y="105">tmdb · imdb · letterboxd</text>
+  <text class="tag" x="474" y="119" fill="#3A3A3C">6★ · workers · live</text>
+
+  <rect class="card" x="671" y="62" width="189" height="70" rx="10"/>
+  <circle class="dot" cx="691" cy="80" r="3.5" style="animation-delay:.6s"/>
+  <text class="cap" x="703" y="85">telegram bots</text>
+  <text class="cnt" x="847" y="85" text-anchor="end">2 live</text>
+  <text class="tag" x="691" y="105">orca-movies · orca-save</text>
+  <text class="tag" x="691" y="119" fill="#3A3A3C">en / fa · workers</text>
+</svg>
