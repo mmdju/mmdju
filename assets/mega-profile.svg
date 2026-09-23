@@ -78,6 +78,7 @@
     @keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
     @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
     @keyframes drawdash{from{stroke-dashoffset:420}to{stroke-dashoffset:0}}
+    @keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
 
     .a1{animation:d1 19s ease-in-out infinite}
     .a2{animation:d2 23s ease-in-out infinite}
@@ -120,29 +121,29 @@
 
   <!-- ===== hero ===== -->
   <g class="sans">
-    <text x="48" y="82" font-size="11" letter-spacing="4.2" fill="#7C8AA8" style="animation:fade .3s both">READ-ONLY MCP SERVERS &amp; APIs</text>
+    <text x="48" y="82" font-size="11" letter-spacing="4.2" fill="#7C8AA8">READ-ONLY MCP SERVERS &amp; APIs</text>
 
-    <text x="48" y="182" font-size="78" font-weight="800" letter-spacing="-3" fill="url(#nameGrad)" filter="url(#glow)" style="animation:rise .3s both">JAVAD</text>
+    <text x="48" y="182" font-size="78" font-weight="800" letter-spacing="-3" fill="url(#nameGrad)" filter="url(#glow)">JAVAD</text>
 
-    <text x="48" y="216" font-size="15" fill="#A9B6D0" style="animation:rise .3s both">Tehran, Iran &#183; Digikala &#183; Divar &#183; IMDb &#183; Letterboxd</text>
-    <text x="48" y="242" font-size="13" fill="#6E7C96" style="animation:rise .3s both">Everything on Cloudflare Workers. Nothing writes, no key required.</text>
+    <text x="48" y="216" font-size="15" fill="#A9B6D0">Tehran, Iran &#183; Digikala &#183; Divar &#183; IMDb &#183; Letterboxd</text>
+    <text x="48" y="242" font-size="13" fill="#6E7C96">Everything on Cloudflare Workers. Nothing writes, no key required.</text>
   </g>
 
   <line x1="48" y1="272" x2="752" y2="272" stroke="#FFFFFF" stroke-opacity="0.10"/>
 
   <!-- ===== section label ===== -->
   <g class="sans">
-    <text x="48" y="308" font-size="11" letter-spacing="3.4" fill="#7C8AA8" style="animation:fade .3s both">PROJECTS</text>
-    <text x="752" y="308" text-anchor="end" font-size="11" letter-spacing="2" fill="#4E5A73" style="animation:fade .3s both">8 PUBLIC</text>
+    <text x="48" y="308" font-size="11" letter-spacing="3.4" fill="#7C8AA8">PROJECTS</text>
+    <text x="752" y="308" text-anchor="end" font-size="11" letter-spacing="2" fill="#4E5A73">8 PUBLIC</text>
   </g>
 
   <!-- ===== cards ===== -->
   <g class="sans">
 
     <!-- 01 digikala -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="48" y="330" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="48" y="346" width="3" height="90" rx="1.5" fill="#FF6B35"/>
+      <rect x="48" y="346" width="3" height="90" rx="1.5" fill="#FF6B35" style="animation:breathe 4s ease-in-out infinite"/>
       <text x="70" y="366" font-size="16" font-weight="600" fill="#F2F5FF">digikala-mcp</text>
       <text x="70" y="390" font-size="11.5" fill="#93A0BC">Search, compare and price-check Iran&#8217;s</text>
       <text x="70" y="406" font-size="11.5" fill="#93A0BC">biggest marketplace. 16 tools.</text>
@@ -153,9 +154,9 @@
     </g>
 
     <!-- 02 divar -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="410" y="330" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="410" y="346" width="3" height="90" rx="1.5" fill="#2E8B9E"/>
+      <rect x="410" y="346" width="3" height="90" rx="1.5" fill="#2E8B9E" style="animation:breathe 4.4s ease-in-out infinite"/>
       <text x="432" y="366" font-size="16" font-weight="600" fill="#F2F5FF">divar-mcp</text>
       <text x="432" y="390" font-size="11.5" fill="#93A0BC">Classifieds intelligence. Toman prices,</text>
       <text x="432" y="406" font-size="11.5" fill="#93A0BC">market medians, honest verdicts.</text>
@@ -166,9 +167,9 @@
     </g>
 
     <!-- 03 orca-mcp -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="48" y="470" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="48" y="486" width="3" height="90" rx="1.5" fill="#7C6BFF"/>
+      <rect x="48" y="486" width="3" height="90" rx="1.5" fill="#7C6BFF" style="animation:breathe 3.8s ease-in-out infinite"/>
       <text x="70" y="506" font-size="16" font-weight="600" fill="#F2F5FF">orca-mcp</text>
       <text x="70" y="530" font-size="11.5" fill="#93A0BC">Movies and TV across TMDB, IMDb,</text>
       <text x="70" y="546" font-size="11.5" fill="#93A0BC">Letterboxd, RT/MC, streaming.</text>
@@ -179,9 +180,9 @@
     </g>
 
     <!-- 04 orca-movies -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="410" y="470" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="410" y="486" width="3" height="90" rx="1.5" fill="#29B6F6"/>
+      <rect x="410" y="486" width="3" height="90" rx="1.5" fill="#29B6F6" style="animation:breathe 4.2s ease-in-out infinite"/>
       <text x="432" y="506" font-size="16" font-weight="600" fill="#F2F5FF">orca-movies</text>
       <text x="432" y="530" font-size="11.5" fill="#93A0BC">Bilingual Telegram assistant for</text>
       <text x="432" y="546" font-size="11.5" fill="#93A0BC">deciding what to watch. Persian first.</text>
@@ -192,9 +193,9 @@
     </g>
 
     <!-- 05 orca-save -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="48" y="610" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="48" y="626" width="3" height="90" rx="1.5" fill="#4DB6AC"/>
+      <rect x="48" y="626" width="3" height="90" rx="1.5" fill="#4DB6AC" style="animation:breathe 4.6s ease-in-out infinite"/>
       <text x="70" y="646" font-size="16" font-weight="600" fill="#F2F5FF">orca-save</text>
       <text x="70" y="670" font-size="11.5" fill="#93A0BC">Media downloader. Link from 8 platforms</text>
       <text x="70" y="686" font-size="11.5" fill="#93A0BC">in, file back in chat.</text>
@@ -205,9 +206,9 @@
     </g>
 
     <!-- 06 fa-text-utils -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="410" y="610" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="410" y="626" width="3" height="90" rx="1.5" fill="#FFB74D"/>
+      <rect x="410" y="626" width="3" height="90" rx="1.5" fill="#FFB74D" style="animation:breathe 4s ease-in-out infinite"/>
       <text x="432" y="646" font-size="16" font-weight="600" fill="#F2F5FF">fa-text-utils</text>
       <text x="432" y="670" font-size="11.5" fill="#93A0BC">Persian text folding so search works</text>
       <text x="432" y="686" font-size="11.5" fill="#93A0BC">the way people actually type.</text>
@@ -218,9 +219,9 @@
     </g>
 
     <!-- 07 imdb -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="48" y="750" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="48" y="766" width="3" height="90" rx="1.5" fill="#F5C518"/>
+      <rect x="48" y="766" width="3" height="90" rx="1.5" fill="#F5C518" style="animation:breathe 4.4s ease-in-out infinite"/>
       <text x="70" y="786" font-size="16" font-weight="600" fill="#F2F5FF">imdb-top250-api</text>
       <text x="70" y="810" font-size="11.5" fill="#93A0BC">IMDb Top 250 as clean JSON. No key,</text>
       <text x="70" y="826" font-size="11.5" fill="#93A0BC">no scraping, no rate-limit games.</text>
@@ -231,9 +232,9 @@
     </g>
 
     <!-- 08 letterboxd -->
-    <g style="animation:rise .3s both">
+    <g>
       <rect x="410" y="750" width="342" height="122" rx="14" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1"/>
-      <rect x="410" y="766" width="3" height="90" rx="1.5" fill="#00E054"/>
+      <rect x="410" y="766" width="3" height="90" rx="1.5" fill="#00E054" style="animation:breathe 3.8s ease-in-out infinite"/>
       <text x="432" y="786" font-size="16" font-weight="600" fill="#F2F5FF">letterboxd-top500-api</text>
       <text x="432" y="810" font-size="11.5" fill="#93A0BC">Letterboxd Top 500 as clean JSON.</text>
       <text x="432" y="826" font-size="11.5" fill="#93A0BC">Same shape as the IMDb one.</text>
@@ -246,7 +247,7 @@
 
   <!-- ===== stats ===== -->
   <line x1="48" y1="908" x2="752" y2="908" stroke="#FFFFFF" stroke-opacity="0.10"/>
-  <g class="sans" style="animation:fade .3s both">
+  <g class="sans">
     <text x="48" y="944" font-size="11" letter-spacing="3.4" fill="#7C8AA8">AT A GLANCE</text>
 
     <text x="48" y="1002" font-size="40" font-weight="700" fill="#F2F5FF">180</text>
@@ -266,7 +267,7 @@
   </g>
 
   <!-- live dot -->
-  <g style="animation:fade .3s both">
+  <g>
     <circle cx="48" cy="1060" r="4" fill="#22C55E" style="animation:glowpulse 2.4s ease-in-out infinite"/>
     <text x="62" y="1064" class="sans" font-size="11" letter-spacing="1.8" fill="#4E5A73">ALL SYSTEMS READ-ONLY &#183; NO API KEY REQUIRED</text>
     <text x="752" y="1064" text-anchor="end" class="mono" font-size="11" letter-spacing="1.2" fill="#4E5A73">github.com/mmdju</text>
