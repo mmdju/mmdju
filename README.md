@@ -20,11 +20,12 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -47,10 +48,10 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 </td>
 <td width="50%">
 
-**Orca MCP**
-<br>Free Movie/TV intelligence for AI agents. 21 tools, TMDB + IMDb + RT/MC.
+**Divar MCP**
+<br>MCP server for Iran's largest classifieds. 7 tools: search, compare, price verdict.
 <br><br>
-[![Stars](https://img.shields.io/github/stars/mmdju/orca-mcp?style=social)](https://github.com/mmdju/orca-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://orca-mcp.mmdju.workers.dev)
+[![Stars](https://img.shields.io/github/stars/mmdju/divar-mcp?style=social)](https://github.com/mmdju/divar-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://divar-mcp.mmdju2.workers.dev/mcp)
 
 </td>
 </tr>
@@ -74,7 +75,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 </tr>
 </table>
 
-[fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
+[orca-mcp](https://github.com/mmdju/orca-mcp) · [fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
 
 </div>
 
