@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="212" viewBox="0 0 880 212" font-family="'Courier New', Courier, monospace">
+  <rect width="880" height="212" fill="#F7F5F0"/>
+  <rect x="8" y="8" width="864" height="196" fill="none" stroke="#2B2B2B" stroke-width="2"/>
+  <text x="440" y="34" text-anchor="middle" font-size="11" letter-spacing="5" fill="#2B2B2B">FIND THE WAY OUT</text>
+
+  <g stroke="#2B2B2B" stroke-width="3" fill="none" stroke-linecap="square">
+    <path d="M60 60H200V104H96V148H200"/>
+    <path d="M200 60V104"/>
+    <path d="M296 60V104H248"/>
+    <path d="M296 104V148H392"/>
+    <path d="M392 60H440V104"/>
+    <path d="M488 60V104H536"/>
+    <path d="M584 60V104H632"/>
+    <path d="M680 60H728V104H776"/>
+    <path d="M824 60V104H872"/>
+    <path d="M60 148H96"/>
+    <path d="M96 192H200V148"/>
+    <path d="M296 192V148H392"/>
+    <path d="M488 148H536V192H632"/>
+    <path d="M584 148H680V192H728"/>
+    <path d="M824 148H776V192"/>
+  </g>
+  <g stroke="#2B2B2B" stroke-width="3">
+    <path d="M56 60H200M248 60H296M392 60H488M536 60H584M632 60H680M728 60H824"/>
+  </g>
+  <g stroke="#2B2B2B" stroke-width="3">
+    <path d="M200 104H248M392 104H488M536 104H632M728 104H824"/>
+  </g>
+  <g stroke="#2B2B2B" stroke-width="3">
+    <path d="M60 148H248M392 148H488M536 148H584M680 148H824"/>
+  </g>
+  <g stroke="#2B2B2B" stroke-width="3">
+    <path d="M60 192H96M200 192H296M392 192H488M632 192H680M776 192H824"/>
+  </g>
+
+  <rect x="32" y="52" width="30" height="16" fill="#2B2B2B"/>
+  <text x="47" y="64" text-anchor="middle" font-size="10" fill="#F7F5F0">IN</text>
+  <rect x="818" y="184" width="30" height="16" fill="#C1440E"/>
+  <text x="833" y="196" text-anchor="middle" font-size="10" fill="#F7F5F0">OUT</text>
+
+  <circle cx="47" cy="104" r="5" fill="#C1440E"/>
+  <circle cx="833" cy="104" r="5" fill="#2B2B2B"/>
+</svg>
