@@ -6,13 +6,13 @@
 <text x="310" y="38" font-size="12" fill="#636366" text-anchor="end">mmdju</text>
 <line x1="20" y1="52" x2="320" y2="52" stroke="#1C1C1E"/>
 <text x="30" y="76" font-size="13" fill="#8E8E93">Total Stars</text>
-<text x="310" y="76" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">133</text>
+<text x="310" y="76" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">208</text>
 <text x="30" y="101" font-size="13" fill="#8E8E93">Public Repos</text>
-<text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">8</text>
+<text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">9</text>
 <text x="30" y="126" font-size="13" fill="#8E8E93">Followers</text>
-<text x="310" y="126" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">24</text>
+<text x="310" y="126" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">38</text>
 <text x="30" y="151" font-size="13" fill="#8E8E93">Following</text>
-<text x="310" y="151" font-size="13" fill="#F5F5F7" text-anchor="end">6</text>
+<text x="310" y="151" font-size="13" fill="#F5F5F7" text-anchor="end">7</text>
 <text x="30" y="176" font-size="13" fill="#8E8E93">Forks Earned</text>
-<text x="310" y="176" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">13</text>
+<text x="310" y="176" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">19</text>
 </svg>
