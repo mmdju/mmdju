@@ -8,9 +8,9 @@
 <text x="30" y="76" font-size="13" fill="#8E8E93">Total Stars</text>
 <text x="310" y="76" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">246</text>
 <text x="30" y="101" font-size="13" fill="#8E8E93">Public Repos</text>
-<text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">9</text>
+<text x="310" y="101" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">10</text>
 <text x="30" y="126" font-size="13" fill="#8E8E93">Followers</text>
-<text x="310" y="126" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">52</text>
+<text x="310" y="126" font-size="13" font-weight="600" fill="#F5F5F7" text-anchor="end">53</text>
 <text x="30" y="151" font-size="13" fill="#8E8E93">Following</text>
 <text x="310" y="151" font-size="13" fill="#F5F5F7" text-anchor="end">8</text>
 <text x="30" y="176" font-size="13" fill="#8E8E93">Forks Earned</text>
