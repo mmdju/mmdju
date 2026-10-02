@@ -6,7 +6,7 @@
 
 **Code, automation, and whatever catches my interest.**
 
-Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
+Tehran, Iran · Open to work
 
 [![Telegram](https://img.shields.io/badge/Telegram-@mmdju-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmdju)
 [![X](https://img.shields.io/badge/X-@MmdjDev-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MmdjDev)
