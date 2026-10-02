@@ -40,16 +40,16 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 <tr>
 <td width="50%">
 
-**Digikala MCP**
-<br>MCP server for Iran's biggest marketplace. 16 tools, read-only, no key needed.
+[**Digikala MCP**](https://github.com/mmdju/digikala-mcp)
+<br>MCP server for Digikala. Search, compare and check prices. 16 tools, no key needed.
 <br><br>
 [![Stars](https://img.shields.io/github/stars/mmdju/digikala-mcp?style=social)](https://github.com/mmdju/digikala-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://digikala-mcp.mmdju.workers.dev/mcp)
 
 </td>
 <td width="50%">
 
-**Divar MCP**
-<br>MCP server for Iran's largest classifieds. 7 tools: search, compare, price verdict.
+[**Divar MCP**](https://github.com/mmdju/divar-mcp)
+<br>MCP server for Divar. Search ads, compare and check prices. 7 tools, no key needed.
 <br><br>
 [![Stars](https://img.shields.io/github/stars/mmdju/divar-mcp?style=social)](https://github.com/mmdju/divar-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://divar-mcp.mmdju2.workers.dev/mcp)
 
@@ -58,16 +58,34 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 <tr>
 <td width="50%">
 
-**OrcaMovies**
-<br>Bilingual Telegram assistant: smart search, ratings, subtitles, alerts.
+[**Torob MCP**](https://github.com/mmdju/torob-mcp)
+<br>MCP server for Torob. Compare shops and track prices. 14 tools, no key needed.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/torob-mcp?style=social)](https://github.com/mmdju/torob-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://torob-mcp.mmdju3.workers.dev/mcp)
+
+</td>
+<td width="50%">
+
+[**Orca MCP**](https://github.com/mmdju/orca-mcp)
+<br>MCP server for movies and shows. Ratings, streaming and episodes. 21 tools, no key needed.
+<br><br>
+[![Stars](https://img.shields.io/github/stars/mmdju/orca-mcp?style=social)](https://github.com/mmdju/orca-mcp) [![Live](https://img.shields.io/badge/▶_Live_endpoint-0A84FF?style=flat-square)](https://orca-mcp.mmdju.workers.dev/mcp)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[**OrcaMovies**](https://github.com/mmdju/orca-movies)
+<br>Telegram movie bot (EN/FA). Search, ratings, downloads, subtitles and alerts.
 <br><br>
 [![Stars](https://img.shields.io/github/stars/mmdju/orca-movies?style=social)](https://github.com/mmdju/orca-movies) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaMoviesBot)
 
 </td>
 <td width="50%">
 
-**OrcaSave**
-<br>Media downloader bot. Link from 8 platforms in, file back in chat.
+[**OrcaSave**](https://github.com/mmdju/orca-save)
+<br>Telegram downloader bot. Link from 8 platforms in, file back in chat.
 <br><br>
 [![Stars](https://img.shields.io/github/stars/mmdju/orca-save?style=social)](https://github.com/mmdju/orca-save) [![Bot](https://img.shields.io/badge/▶_Open_bot-2CA5E0?style=flat-square&logo=telegram)](https://t.me/OrcaSaveBot)
 
@@ -75,7 +93,7 @@ Tehran, Iran · Open to work · Ask me about MCP, APIs, Bots
 </tr>
 </table>
 
-[orca-mcp](https://github.com/mmdju/orca-mcp) · [fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
+[fa-text-utils](https://github.com/mmdju/fa-text-utils) · [imdb-top250-api](https://github.com/mmdju/imdb-top250-api) · [letterboxd-top500-api](https://github.com/mmdju/letterboxd-top500-api)
 
 </div>
 
